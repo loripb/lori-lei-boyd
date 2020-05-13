@@ -17,7 +17,7 @@ const Projects = ({ handleClick }) => {
           </Grid.Column>
           <Grid.Column>
             <Segment>
-              <a href=''><Image src='/FlickPixScreenShot_edited.jpg' size="medium"/></a>
+              <a href='https://flick-pix.herokuapp.com/'><Image src='/FlickPixScreenShot_edited.jpg' size="medium"/></a>
               <p>A random movie generator web app written in React.js with a custom Rails API backend that gets movie data from The Movie Database API.</p>
             </Segment>
             <Segment>
