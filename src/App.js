@@ -39,9 +39,9 @@ function App() {
       <Container fluid>
         <Header as='h1' id='top'>Hi, I'm Lori "Lei" Boyd!</Header>
         <Header as='h2' id='top2'>Welcome to my creation station!</Header>
-          <Icon link name='linkedin' />
-          <Icon link name='github' />
-          <Icon link name='blogger b' />
+          <a href='https://www.linkedin.com/in/lori-lei-boyd/'><Icon  name='linkedin' /></a>
+          <a href='https://github.com/loripb'><Icon  name='github' /></a>
+          <a href='https://dev.to/loripb'><Icon  name='blogger b' /></a>
       </Container>
 
       {

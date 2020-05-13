@@ -18,10 +18,11 @@ code {
 }
 
 div.middle.aligned.row {
-  padding-top: 25%;
+  padding-top: 150px;
 }
 
 div.ui.fluid.container {
+  margin-top: 30px;
   margin-bottom: 20px;
   text-align: center;
 }
