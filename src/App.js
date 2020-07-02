@@ -37,11 +37,13 @@ function App() {
   return (
     <>
       <Container fluid>
-        <Header as='h1' id='top'>Hi, I'm Lori "Lei" Boyd!</Header>
-        <Header as='h2' id='top2'>Welcome to my creation station!</Header>
-          <a href='https://www.linkedin.com/in/lori-lei-boyd/'><Icon  name='linkedin' /></a>
-          <a href='https://github.com/loripb'><Icon  name='github' /></a>
-          <a href='https://dev.to/loripb'><Icon  name='blogger b' /></a>
+        <Header as='h1' id='top'>Lori "Lei" Boyd!</Header>
+        <Header as='h2' id='top2'>Software Engineer</Header>
+        <div>
+          <a href='https://www.linkedin.com/in/lori-lei-boyd/'><Icon  name='linkedin' size='large'/></a>
+          <a href='https://github.com/loripb'><Icon  name='github' size='large'/></a>
+          <a href='https://dev.to/loripb'><Icon  name='blogger b' size='large'/></a>
+        </div>
       </Container>
 
       {
